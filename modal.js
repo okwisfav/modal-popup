@@ -1,3 +1,4 @@
+//modal build  with Javascript
 let openModalButton = document.getElementById('Join');
 let modalTwo = document.getElementById('modal-container-two');
 let closeModalButton = document.getElementById('modal-close-button-two');
